@@ -1,0 +1,18 @@
+b80e5cd2-76cb-40bf-b784-2a0a312e6264 - Gjorche Stanica - done
+01440b05-255d-4764-be87-bdf135f32289 - Bardovci - done
+fc4bfa77-f791-4f93-8c0c-62d8306c599c - Nerezi - done
+8defa36a-62ca-448a-9ffb-5a2848c2dfa0 - Zoo - done
+3d7bd712-24a9-482c-b387-a8168b12d3f4 - Butel 1 - done
+f9e27604-2715-4ec3-ac6c-e3385e29590c - Butel 2 - done
+7c497bfd-36b6-4eed-9172-37fd70f17c48 - Zhelezhara - done
+60aa65c6-b7c4-4aae-8769-5dbcba356b5d - Avtokomanda - done
+01cf1cec-bf2d-41b3-8cd5-e8bd720f01b4 - Madjir Maalo - done
+68538f26-664b-430b-a30e-162ad38c32b7 - TC Skopjanka - done
+8a855889-8853-4777-a0e4-107cf78ab550 - Shampionce - done
+24eaebc2-ca62-49ff-8b22-880bc131b69f - Crniche - done
+6380c7cc-df23-4512-ad10-f2b363000579 - Sopishte - done
+200cdb67-8dc5-4dcf-ac62-748db636e04e - 11ti Oktomvri - done
+c6424b37-1d84-4ccf-831e-512f1bcf19a4 - Novo Lisiche - done
+11888f3a-bc5e-4a0c-9f27-702984decedf - MZT - done
+680b0098-7c4d-44cf-acb1-dc4031e93d34 - Ilinden - done
+f2c2ae38-27f3-4b98-a3a2-afce870b164e - Drachevo Kuzman - done

@@ -1,0 +1,40 @@
+lat: Latitude (Degrees).
+lon: Longitude (Degrees).
+timezone: Local IANA Timezone.
+city_name: City name.
+city_id: City ID.
+country_code: Country abbreviation.
+state_code: State abbreviation/code.
+station_id: Nearest station. [Deprecated]
+sources: List of stations used in response.
+data: [
+datetime: Date UTC (YYYY-MM-DD:HH). [Deprecated]
+ts: Timestamp (Unix Timestamp).
+timestamp_local: Timestamp at Local time.
+timestamp_utc: Timestamp at UTC time.
+pres: Pressure (mb).
+slp: Sea level pressure (mb).
+wind_spd: Wind speed (Default m/s).
+wind_dir: Wind direction (degrees).
+temp: Temperature (default Celcius).
+app_temp: Apparent/"Feels Like" temperature (default Celcius).
+rh: Relative humidity (%).
+dewpt: Dew point (default Celcius).
+clouds:[Satellite based] cloud coverage (%).
+pod: Part of the day (d = day / n = night).
+weather: {
+icon: Weather icon code.
+code: Weather code.
+description: Text weather description.
+}
+vis: Visibility (default KM).
+precip: Accumulated liquid equivalent precipitation (default mm).
+snow: Accumulated snowfall (default mm).
+dhi: Diffuse horizontal solar irradiance (W/m^2) [Clear Sky]
+dni: Direct normal solar irradiance (W/m^2) [Clear Sky]
+ghi: Global horizontal solar irradiance (W/m^2) [Clear Sky]
+solar_rad: Estimated Solar Radiation (W/m^2).
+uv: UV Index (0-11+).
+elev_angle: Solar elevation angle (degrees).
+azimuth: Solar azimuth angle (degrees).
+h_angle: Solar hour angle (degrees). [Deprecated]

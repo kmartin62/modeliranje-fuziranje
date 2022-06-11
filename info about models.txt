@@ -1,0 +1,1 @@
+11_oktomvri pm10 is log normal distributed, skewed on right

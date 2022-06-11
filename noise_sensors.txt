@@ -1,0 +1,12 @@
+7c497bfd-36b6-4eed-9172-37fd70f17c48 - Zhelezhara - start date: 2020-11-05 - done - saved json
+60aa65c6-b7c4-4aae-8769-5dbcba356b5d - Avtokomanda - start date: 2020-06-01 - done - saved json
+01cf1cec-bf2d-41b3-8cd5-e8bd720f01b4 - Madjir Maalo - start date: 2020-09-22 - done - saved json
+68538f26-664b-430b-a30e-162ad38c32b7 - TC Skopjanka - start date: 2021-01-05 - done - saved json
+8a855889-8853-4777-a0e4-107cf78ab550 - Shampionce - start date: 2022-01-17 - done - saved json
+24eaebc2-ca62-49ff-8b22-880bc131b69f - Crniche - start date: 2017-11-09 - done - saved json
+6380c7cc-df23-4512-ad10-f2b363000579 - Sopishte - start date: 2017-11-09 - done - saved json
+200cdb67-8dc5-4dcf-ac62-748db636e04e - 11ti Oktomvri - start date: 2017-11-09 - done - saved json
+c6424b37-1d84-4ccf-831e-512f1bcf19a4 - Novo Lisiche - start date: 2019-04-21 - done - saved json
+11888f3a-bc5e-4a0c-9f27-702984decedf - MZT - start date: 2017-12-24 - done - saved json
+680b0098-7c4d-44cf-acb1-dc4031e93d34 - Ilinden - start date: 2018-01-12 - done - saved json
+f2c2ae38-27f3-4b98-a3a2-afce870b164e - Drachevo Kuzman - start date: 2022-01-16 - done - saved json
